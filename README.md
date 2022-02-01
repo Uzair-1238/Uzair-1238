@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Uzair-1238
-- 👀 I’m interested in java,OOP,JDBC,JSP,Spring (MVC, Core, JDBC, ORM, AOP)
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on any data science project
 - 📫 How to reach me ...
 
 <!---
